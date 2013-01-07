@@ -1,0 +1,9 @@
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Debug\GunzDecompiler.exe.config
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Debug\GunzDecompiler.exe
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Debug\GunzDecompiler.pdb
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.g.resources
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.Properties.Resources.resources
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.exe
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Debug\GunzDecompiler.pdb

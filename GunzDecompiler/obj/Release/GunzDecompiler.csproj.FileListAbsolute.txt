@@ -1,0 +1,8 @@
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Release\GunzDecompiler.exe.config
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Release\GunzDecompiler.exe
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\bin\Release\GunzDecompiler.pdb
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Release\GunzDecompiler.g.resources
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Release\GunzDecompiler.Properties.Resources.resources
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Release\GunzDecompiler.csproj.GenerateResource.Cache
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Release\GunzDecompiler.exe
+C:\Users\Victor\Documents\GitHub\Gunz-Decompiler\GunzDecompiler\obj\Release\GunzDecompiler.pdb
